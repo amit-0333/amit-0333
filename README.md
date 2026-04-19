@@ -1,9 +1,4 @@
-
-
-<!--
-**amit-0333/amit-0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hi, I'm [Amit Kumar]
+# 👋 Hi, I'm Amit Kumar
 
 ### 🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Learner
 
@@ -34,8 +29,6 @@ I am focused on learning through hands-on practice, solving problems, and buildi
 
 ## 📌 Projects (Work in Progress)
 
-I am currently working on building my first projects:
-
 - 📊 Data Analysis Project (Coming soon)
 - 🤖 Machine Learning Model (Coming soon)
 - 📈 Visualization Dashboard (Coming soon)
@@ -48,6 +41,7 @@ I am currently working on building my first projects:
 - Understanding ML algorithms step by step
 - Practicing DSA for problem solving
 - Building my first GitHub portfolio
+
 ---
 
 ## ⚡ Mindset
