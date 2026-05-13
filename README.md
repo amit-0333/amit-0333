@@ -4,15 +4,15 @@
 
 ### 🚀 Aspiring Data Scientist & ML Engineer | Python Learner | Building in Public
 
-<!-- <p>
+<p>
   <img src="https://komarev.com/ghpvc/?username=amit-0333&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR-KAGGLE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-a62a3640a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amitkumar038975)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar03pqr@gmail.com)
 
-</div> -->
+</div>
 
 ---
 
@@ -33,44 +33,90 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,mysql,markdown&theme=dark" />
-
-<br/><br/>
-
-**Data Science & ML Libraries**
+### 💻 Languages
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+      <br><b>Python</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" />
+      <br><b>Java</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="48" alt="Seaborn" />
-      <br>Seaborn
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL" />
+      <br><b>SQL</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-**Tools & Environment**
+### 📊 Data Science & ML Libraries
 
-<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" />
+      <br><b>NumPy</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" />
+      <br><b>Pandas</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-learn" />
+      <br><b>Sklearn</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" />
+      <br><b>Matplotlib</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" height="55" alt="Seaborn" />
+      <br><b>Seaborn</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="55" height="55" alt="Plotly" />
+      <br><b>Plotly</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🧰 Frameworks & Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" />
+      <br><b>Flask</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter" />
+      <br><b>Jupyter</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Tkinter" />
+      <br><b>Tkinter</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
