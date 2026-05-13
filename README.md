@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Data Scientist & ML Engineer | Python Learner | Building in Public
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=amit-0333&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -12,7 +12,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR-KAGGLE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
-</div>
+</div> -->
 
 ---
 
