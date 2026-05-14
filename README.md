@@ -104,6 +104,10 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 <br/><br/>
 
+**Tkinter** — Python built-in GUI library
+
+<br/><br/>
+
 ### 🌐 Platforms & Environments
 
 <table>
@@ -119,10 +123,6 @@ I learn by doing — every concept I study, I upload here. This profile is my **
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" height="60" alt="Kaggle" />
       <br><b>Kaggle</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Tkinter" />
-      <br><b>Tkinter</b>
     </td>
   </tr>
 </table>
@@ -161,13 +161,6 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit-0333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-0333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amit-0333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
