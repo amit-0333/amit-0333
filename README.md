@@ -1,16 +1,38 @@
+<!-- Header Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Building%20in%20Public&descAlignY=58&descAlign=50" />
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Learn+it+%E2%86%92+Build+it+%E2%86%92+Push+it+%E2%86%92+Repeat;Data+Science+%7C+Machine+Learning+%7C+Python;Every+commit+is+a+step+forward+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-0333&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<br/>
+
+<!-- Social Links -->
 <div align="center">
 
-# 👋 Hey, I'm Amit Kumar
-
-### 🚀 Aspiring Data Scientist & ML Engineer | Python Learner | Building in Public
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amit-0333&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-a62a3640a/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amitkumar038975)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar03pqr@gmail.com)
+  <a href="https://www.linkedin.com/in/amit-kumar-a62a3640a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/amitkumar038975" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:amitkumar03pqr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/amit-0333" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
@@ -67,6 +89,10 @@ I learn by doing — every concept I study, I upload here. This profile is my **
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60" height="60" alt="Plotly" />
       <br><b>Plotly</b>
     </td>
+    <td align="center" width="110">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="Streamlit" />
+      <br><b>Streamlit</b>
+    </td>
   </tr>
 </table>
 
@@ -93,10 +119,6 @@ I learn by doing — every concept I study, I upload here. This profile is my **
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" height="60" alt="Kaggle" />
       <br><b>Kaggle</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="Streamlit" />
-      <br><b>Streamlit</b>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Tkinter" />
@@ -142,21 +164,19 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=amit-0333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Amit's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-0333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit-0333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-0333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amit-0333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=amit-0333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-0333&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -190,3 +210,6 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 ⭐ Star my repos if you find them helpful!
 
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
