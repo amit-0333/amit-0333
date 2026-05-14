@@ -98,17 +98,11 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 <br/>
 
-### 🧰 Frameworks & Tools
+### 🧰 Frameworks, Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=flask,sklearn,anaconda,vscode,git,github&theme=dark&perline=6" />
 
 <br/><br/>
-
-**Tkinter** — Python built-in GUI library
-
-<br/><br/>
-
-### 🌐 Platforms & Environments
 
 <table>
   <tr>
@@ -123,6 +117,10 @@ I learn by doing — every concept I study, I upload here. This profile is my **
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" height="60" alt="Kaggle" />
       <br><b>Kaggle</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Tkinter" />
+      <br><b>Tkinter</b>
     </td>
   </tr>
 </table>
