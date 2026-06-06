@@ -19,19 +19,19 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/amit-kumar-a62a3640a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/amitkumar038975" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:amitkumar03pqr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/amit-0333" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -57,9 +57,24 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark&perline=3" />
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" style="border-radius:50%; background:#f0f0f0; padding:8px" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" style="border-radius:50%; background:#f0f0f0; padding:8px" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" style="border-radius:50%; background:#f0f0f0; padding:8px" />
+      <br><b>MySQL</b>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 ### 📊 Data Science & ML Libraries
 
@@ -100,12 +115,28 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 ### 🧰 Frameworks, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=flask,sklearn,anaconda,vscode,git,github&theme=dark&perline=6" />
-
-<br/><br/>
-
 <table>
   <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
+      <br><b>Flask</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60" height="60" alt="Anaconda" />
+      <br><b>Anaconda</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" alt="Jupyter" />
       <br><b>Jupyter</b>
