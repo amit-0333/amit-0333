@@ -131,15 +131,20 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 ## 📂 Projects & Learning Repos
 
-> I upload as I learn — every repo here represents real practice and progress.
+> I build as I learn — uploading projects one by one. Every repo here represents real practice and progress.
 
-| # | Project | Description | Tech | Status |
-|---|---------|-------------|------|--------|
-| 1 | [DSA with Python](https://github.com/amit-0333/DSA-WITH-PYTHON) | DSA notes & implementations for learning + interview prep | Python, Jupyter | 🟢 Active |
-| 2 | [DSA Practice Questions](https://github.com/amit-0333/DSA-PRACTICE-QUESTION) | Hands-on problem solving practice | Python, Jupyter | 🟢 Active |
-| 3 | 📊 EDA Project | Exploratory Data Analysis on a real dataset | Pandas, Seaborn | 🔜 Coming Soon |
-| 4 | 🤖 ML Model | End-to-end Machine Learning project | Scikit-learn | 🔜 Coming Soon |
-| 5 | 📈 Data Dashboard | Visualization dashboard | Matplotlib, Plotly | 🔜 Coming Soon |
+| # | Project | Description | Tech | Repo | Status |
+|---|---------|-------------|------|------|--------|
+| 1 | [DSA with Python](https://github.com/amit-0333/DSA-WITH-PYTHON) | DSA notes & implementations for learning + interview prep | Python, Jupyter | ✅ Live | 🟢 Active |
+| 2 | [DSA Practice Questions](https://github.com/amit-0333/DSA-PRACTICE-QUESTION) | Hands-on problem solving practice | Python, Jupyter | ✅ Live | 🟢 Active |
+| 3 | IPL Stats API | REST API to fetch live & historical IPL cricket stats | Python, Flask | [🔗 View Repo](https://github.com/amit-0333/flask-api/tree/main/ipl-stats-api) | ✅ Done |
+| 4 | Spotify Stats API | REST API to fetch Spotify artist & track data | Python, Flask | [🔗 View Repo](https://github.com/amit-0333/flask-api/tree/main/spotify-stats-api) | ✅ Done |
+| 5 | NLP Web App | Web app for text analysis — sentiment, summarization & more | Python, Flask, NLP | [🔗 View Repo](https://github.com/amit-0333/nlp-web-app-flask) | ✅ Done |
+| 6 | Expense Tracker | Track daily expenses with category breakdown & history | Python, Flask, SQLite | [🔗 View Repo](https://github.com/amit-0333/flask-expense-tracker) | ✅ Done |
+| 7 | The Journal | Personal journaling web app with entry management | Python, Flask | [🔗 View Repo](https://github.com/amit-0333/the-journal) | ✅ Done |
+| 8 | Mumbai 99Acres Dashboard | Real estate data analysis & visualization for Mumbai | Python, Pandas, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
+| 9 | Indian Startup Funding Dashboard | Explore Indian startup ecosystem via interactive charts | Python, Streamlit, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
+| 10 | Corona Dashboard | COVID-19 data dashboard with interactive maps & trends | Python, Plotly, Go | 🔜 Coming Soon | 🏗️ Uploading Soon |
 
 ---
 
@@ -147,13 +152,15 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 | Topic | Status |
 |---|---|
-| 🐍 Python for Data Science | ✅ Learning |
-| 🧮 Data Structures & Algorithms | ✅ Learning |
-| 🐼 Pandas & NumPy | 🔄 In Progress |
-| 📊 Exploratory Data Analysis | 🔄 In Progress |
+| 🐍 Python for Data Science | ✅ Done |
+| 🧮 Data Structures & Algorithms | ✅ Done |
+| 🐼 Pandas & NumPy | ✅ Done |
+| 🌐 Flask & Web Apps | ✅ Done |
+| 🧠 NLP Basics | ✅ Done |
+| 📊 Data Visualization (Matplotlib, Seaborn, Plotly, Streamlit) | ✅ Done |
+| 🔍 Exploratory Data Analysis (EDA) | 🔄 In Progress |
 | 🤖 Machine Learning (Scikit-learn) | ⏳ Up Next |
 | 🗄️ SQL for Data Analysis | ⏳ Up Next |
-| 🚀 Streamlit App Deployment | ⏳ Planned |
 | 🧠 Deep Learning Basics | 🔮 Future |
 
 ---
@@ -176,13 +183,14 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 
 - [x] Python Fundamentals
 - [x] Data Structures & Algorithms
-- [ ] Pandas & NumPy (in progress)
-- [ ] Data Visualization (Matplotlib, Seaborn, Plotly)
-- [ ] Exploratory Data Analysis (EDA)
+- [x] Pandas & NumPy
+- [x] Flask & Web Development
+- [x] NLP Basics
+- [x] Data Visualization (Matplotlib, Seaborn, Plotly, Streamlit)
+- [ ] Exploratory Data Analysis — EDA (in progress)
 - [ ] Machine Learning Fundamentals
 - [ ] SQL for Data Analysis
 - [ ] Feature Engineering
-- [ ] Streamlit App Deployment
 - [ ] End-to-End ML Projects
 - [ ] Deep Learning Basics (future)
 
