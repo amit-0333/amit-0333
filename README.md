@@ -173,9 +173,9 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 | 5 | NLP Web App | Web app for text analysis — sentiment, summarization & more | Python, Flask, NLP | [🔗 View Repo](https://github.com/amit-0333/nlp-web-app-flask) | ✅ Done |
 | 6 | Expense Tracker | Track daily expenses with category breakdown & history | Python, Flask, SQLite | [🔗 View Repo](https://github.com/amit-0333/flask-expense-tracker) | ✅ Done |
 | 7 | The Journal | Personal journaling web app with entry management | Python, Flask | [🔗 View Repo](https://github.com/amit-0333/the-journal) | ✅ Done |
-| 8 | Mumbai 99Acres Dashboard | Real estate data analysis & visualization for Mumbai | Python, Pandas, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
-| 9 | Indian Startup Funding Dashboard | Explore Indian startup ecosystem via interactive charts | Python, Streamlit, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
-| 10 | Corona Dashboard | COVID-19 data dashboard with interactive maps & trends | Python, Plotly, Go | 🔜 Coming Soon | 🏗️ Uploading Soon |
+| 8 | COVID-19 India Dashboard | Interactive dashboard tracking COVID-19 stats across all Indian states — KPI cards, trend line, state-wise bar chart & log-scale histograms | Python, Dash, Plotly, Pandas, NumPy | [🔗 View Repo](https://github.com/amit-0333/covid19-india-dashboard) | ✅ Done |
+| 9 | Mumbai 99Acres Dashboard | Real estate data analysis & visualization for Mumbai | Python, Pandas, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
+| 10 | Indian Startup Funding Dashboard | Explore Indian startup ecosystem via interactive charts | Python, Streamlit, Plotly | 🔜 Coming Soon | 🏗️ Uploading Soon |
 
 ---
 
@@ -218,6 +218,7 @@ I learn by doing — every concept I study, I upload here. This profile is my **
 - [x] Flask & Web Development
 - [x] NLP Basics
 - [x] Data Visualization (Matplotlib, Seaborn, Plotly, Streamlit)
+- [x] Interactive Dashboard with Dash (COVID-19 India Dashboard)
 - [ ] Exploratory Data Analysis — EDA (in progress)
 - [ ] Machine Learning Fundamentals
 - [ ] SQL for Data Analysis
